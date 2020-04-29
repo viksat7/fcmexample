@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "75881879591",
+    "firebase_url": "https://consectus-fc714.firebaseio.com",
+    "project_id": "consectus-fc714",
+    "storage_bucket": "consectus-fc714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75881879591:android:7f126fb36c3156a50bd602",
+        "android_client_info": {
+          "package_name": "com.consectus.tipton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75881879591-41qedvgo55m3p9vj9fncf4b7r28nbpcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdaVFKPnqj7oEaeisxKVlOgCK8Vb-pqgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75881879591-41qedvgo55m3p9vj9fncf4b7r28nbpcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75881879591-g6p9deap39261rtctcpp86fhd7gt4dqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mijas.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75881879591:android:f47f138d58e11cd30bd602",
+        "android_client_info": {
+          "package_name": "com.viksat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75881879591-41qedvgo55m3p9vj9fncf4b7r28nbpcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdaVFKPnqj7oEaeisxKVlOgCK8Vb-pqgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75881879591-41qedvgo55m3p9vj9fncf4b7r28nbpcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75881879591-g6p9deap39261rtctcpp86fhd7gt4dqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mijas.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

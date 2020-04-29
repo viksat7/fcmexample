@@ -1,0 +1,7 @@
+{
+  "name": "fcmexample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

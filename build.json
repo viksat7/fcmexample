@@ -1,0 +1,46 @@
+{
+    "ios": {
+        "buildFlag": [
+            "EMBEDDED_CONTENT_CONTAINS_SWIFT = YES",
+            "ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES=NO",
+            "SWIFT_VERSION=4.0",
+            "LD_RUNPATH_SEARCH_PATHS = \"@executable_path/Frameworks\""
+        ],
+        "debug": {
+            "codeSignIdentity": "Apple Development: Vikrant Satpute (QT7F6ATY8F)",
+            "developmentTeam": "TP9V5AASP8",
+            "provisioningProfile": "7a5627dc-dc61-4551-862e-20c421c72d7d",
+            "packageType": "development",
+            "iCloudContainerEnvironment": "Development",
+            "buildFlag": [
+                "-UseModernBuildSystem=0"
+            ]
+        },
+        "release": {
+            "codeSignIdentitiy": "iPhone Distribution: TIPTON AND COSELEY BUILDING SOCIETY (258PAFXV3M)",
+            "developmentTeam": "TP9V5AASP8",
+            "provisioningProfile": "418f252e-d74c-4d23-9ef8-fc867278ad79",
+            "packageType": "ad-hoc",
+            "iCloudContainerEnvironment": "Production",
+            "buildFlag": [
+                "-UseModernBuildSystem=0"
+            ]
+        }
+    },
+    "android": {
+        "debug": {
+            "keystore": "key.keystore",
+            "storePassword": "consectus",
+            "alias": "consectus",
+            "password": "consectus",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "key.keystore",
+            "storePassword": "consectus",
+            "alias": "consectus",
+            "password": "consectus",
+            "keystoreType": ""
+        }
+    }
+}
